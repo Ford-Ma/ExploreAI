@@ -1,2 +1,2 @@
 # ExploreAI
-How to build a real AI project
+How to build a real AI
